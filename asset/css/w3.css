@@ -125,9 +125,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   overflow-y: auto;
 }
 
-.logo1{
-	width:50%;
-}
+
 
 }
 
@@ -171,6 +169,9 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 		{
 			max-width:100%
 			}
+	.logo1{
+	width:50%;
+}
 			}
 
 .w3-top,.w3-bottom{position:fixed;width:100%;z-index:1}.w3-top{top:0}.w3-bottom{bottom:0}
